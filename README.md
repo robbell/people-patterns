@@ -1,2 +1,2 @@
-# people-patterns
-Patterns and practices for the human side of software engineering
+# People Patterns
+Patterns and practices for the human side of software engineering.
